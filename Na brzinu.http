@@ -1,0 +1,6 @@
+@Na_brzinu_HostAddress = http://localhost:5085
+
+GET {{Na_brzinu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
